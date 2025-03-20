@@ -85,7 +85,7 @@ Daha sonra projeyi başlatın:
 ```sh
 npm run dev
 ```
-Artık proje **http://localhost:5173/** adresinde çalışacaktır.
+Artık proje **http://localhost:5175/** adresinde çalışacaktır.
 
 ---
 
